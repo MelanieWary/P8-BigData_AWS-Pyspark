@@ -1,5 +1,5 @@
 # Context of the project
-Development, in a Big Data environment, of the first steps to process fruits images in order to use them for automated image recognition
+Development, in a Big Data environment, of the first steps to process [fruits images](https://www.kaggle.com/moltean/fruits) in order to use them for automated image recognition
 
 # Objectives of the project:
 1. Store image dataset into an AWS S3 bucket
